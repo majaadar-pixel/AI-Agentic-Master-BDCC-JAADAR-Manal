@@ -1,0 +1,22 @@
+[
+  {"id": "S01", "type": "simple", "question": "Qu'est-ce qu'un systeme RAG ?"},
+  {"id": "S02", "type": "simple", "question": "A quoi sert la vectorisation dans un RAG ?"},
+  {"id": "S03", "type": "simple", "question": "Quel role joue LangGraph ?"},
+  {"id": "S04", "type": "simple", "question": "Quels sont les noeuds principaux du graphe du projet ?"},
+  {"id": "S05", "type": "simple", "question": "Pourquoi faut-il citer les sources ?"},
+  {"id": "S06", "type": "simple", "question": "Quelle difference existe entre questions simples et complexes ?"},
+  {"id": "S07", "type": "simple", "question": "Quels risques de securite existent dans un RAG ?"},
+  {"id": "S08", "type": "simple", "question": "Que contient le state du graphe ?"},
+  {"id": "S09", "type": "simple", "question": "Quand le graphe reformule-t-il la requete ?"},
+  {"id": "S10", "type": "simple", "question": "Quels indicateurs sont utiles pour evaluer un RAG ?"},
+  {"id": "C01", "type": "complexe", "question": "Explique comment un Agentic RAG differe d'une chaine RAG lineaire."},
+  {"id": "C02", "type": "complexe", "question": "Propose une demarche d'evaluation combinant qualite de reponse, temps et documents recuperes."},
+  {"id": "C03", "type": "complexe", "question": "Pourquoi LangGraph facilite-t-il le debogage et l'amelioration d'un agent RAG ?"},
+  {"id": "C04", "type": "complexe", "question": "Analyse les limites d'un RAG et donne des pistes d'amelioration."},
+  {"id": "C05", "type": "complexe", "question": "Comment la memoire peut-elle ameliorer une conversation multi-tours dans ce projet ?"},
+  {"id": "C06", "type": "complexe", "question": "Compare TF-IDF et embeddings denses pour la vectorisation du corpus."},
+  {"id": "C07", "type": "complexe", "question": "Decris le flux complet entre question utilisateur, recherche, evaluation et generation."},
+  {"id": "C08", "type": "complexe", "question": "Comment limiter les hallucinations dans ce systeme RAG agentique ?"},
+  {"id": "C09", "type": "complexe", "question": "Pourquoi la reformulation de requete est-elle utile quand les scores sont faibles ?"},
+  {"id": "C10", "type": "complexe", "question": "Quels choix d'architecture montrent le respect de l'approche Agentic RAG ?"}
+]
